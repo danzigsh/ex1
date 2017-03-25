@@ -1,19 +1,18 @@
 # ex1
 working with github
-# sloth
- [link to viki sloth](https://he.wikipedia.org/wiki/%D7%A2%D7%A6%D7%9C%D7%A0%D7%90%D7%99%D7%9D)
+# sparrow
+ [link to viki sparrow](https://en.wikipedia.org/wiki/Sparrow)
 ## must to know:
-1. Sloths are mammals classified in the families Megalonychidae (two-toed sloths) and Bradypodidae (three-toed sloths), including six extant species
-2. They are named after the capital sin of sloth because they seem slow and lazy at first glance.
-3. live 10-20 years
+1. Sparrows are among the most familiar of all wild birds
+2. They are also known as true sparrows, or Old World sparrows, names also used for a particular genus of the family, Passer
+3. the average life expectancy of a sparrow in captivity is 12-14 years
 ## common in:
-* Tropical rainforest.
-* South America.
-* Brazil.
+* Europe
+* Africa
+* Asia
 
-![sloth](/images/sloth.jpg)
+![sparrow](/images/sparrow8.jpg)
 
 English | עברית
 --------|--------
-Megalonychidae | עצלני דו-אצבע
-Bradypodidae | עצלני תלת-אצב
+Sparrow | דרור
